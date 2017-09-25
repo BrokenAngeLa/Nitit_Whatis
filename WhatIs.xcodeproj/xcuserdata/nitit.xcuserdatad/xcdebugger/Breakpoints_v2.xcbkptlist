@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "whatis_1/DataBaseQuestion.swift"
+            timestampString = "500546834.351783"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "whatis_1/DetailScoreViewController.swift"
+            timestampString = "500715319.052225"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "5"
+            endingLineNumber = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "whatis_1.DetailScoreViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; whatis_1.DetailScoreViewController"
+                  moduleName = "whatis_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitit/Desktop/whatis(8.0,7.3)%20with%20Realm/whatis_1/whatis_1/DetailScoreViewController.swift"
+                  timestampString = "500715407.095055"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "whatis_1.DetailScoreViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; whatis_1.DetailScoreViewController"
+                  moduleName = "whatis_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitit/Desktop/whatis(8.0,7.3)%20with%20Realm/whatis_1/whatis_1/DetailScoreViewController.swift"
+                  timestampString = "500715407.097939"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "whatis_1.DetailScoreViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;whatis_1.DetailScoreViewController&gt;"
+                  moduleName = "whatis_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitit/Desktop/whatis(8.0,7.3)%20with%20Realm/whatis_1/whatis_1/DetailScoreViewController.swift"
+                  timestampString = "500715407.102513"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "whatis_1.DetailScoreViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;whatis_1.DetailScoreViewController&gt;"
+                  moduleName = "whatis_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nitit/Desktop/whatis(8.0,7.3)%20with%20Realm/whatis_1/whatis_1/DetailScoreViewController.swift"
+                  timestampString = "500715407.105958"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
